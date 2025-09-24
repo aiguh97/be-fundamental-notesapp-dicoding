@@ -1,0 +1,1 @@
+psql -U developer -d notesapp
